@@ -3,10 +3,10 @@
 
 ## Getting Started
 ### Prerequisites
--PHP
--MySQL
--Google Custom Search API Key
--Search Engine ID
+- PHP
+- MySQL
+- Google Custom Search API Key
+- Search Engine ID
 
 ### Replace 'SUA_CHAVE_DE_API' and 'SEU_ID_DO_MECANISMO_DE_BUSCA' with your actual Google Custom Search API key and Search Engine ID.
 
